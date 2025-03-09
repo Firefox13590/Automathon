@@ -6,3 +6,6 @@ import PIL, cv2
 
 # general functions
 import os, sys, time, threading, subprocess
+
+# gui
+import kivy
